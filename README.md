@@ -28,11 +28,10 @@ Claude がプレイヤーに見せないシナリオを先に作り、それに�
 
 ### claude.ai（Web／デスクトップ／モバイルの Claude アプリ）
 
-1. このリポジトリの `trpg-gm-plus` フォルダをダウンロードします。
-2. フォルダごと ZIP にします。ZIP の中身が `trpg-gm-plus/SKILL.md` になるようにしてください。
-3. Claude で **Customize > Skills** を開き、「+」> **Create skill** > **Upload a skill** から ZIP をアップロードします。
+1. [trpg-gm-plus.zip](https://github.com/luxurytax75-ux/ai-trpg-skills/releases/download/latest/trpg-gm-plus.zip) をダウンロードします。main の最新版から自動で作られる ZIP です。解凍は不要です。
+2. Claude で **Customize > Skills** を開き、「+」> **Create skill** > **Upload a skill** から ZIP をアップロードします。
 
-失敗するときは、フォルダ名が `trpg-gm-plus` か、中に `SKILL.md` があるかを確認してください。詳しくは [Use skills in Claude](https://support.claude.com/en/articles/12512180-use-skills-in-claude) を参照してください。
+自分で ZIP を作る場合は、`trpg-gm-plus` フォルダごと圧縮し、ZIP の中身が `trpg-gm-plus/SKILL.md` になるようにしてください。詳しくは [Use skills in Claude](https://support.claude.com/en/articles/12512180-use-skills-in-claude) を参照してください。
 
 ### Claude Code
 
