@@ -21,7 +21,7 @@ Claude がプレイヤーに見せないシナリオを先に作り、それに�
 | パス | 中身 |
 | --- | --- |
 | `trpg-gm-plus/SKILL.md` | スキル本体 |
-| `scenarios/` | 遊べるシナリオの例。`naedoko_scenario.md`（苗床の三時）は旧形式のファイルで、そのまま添付して遊べます |
+| `scenarios/` | 遊べるシナリオの例。`naedoko_scenario.md`（苗床の三時）は旧形式のファイルで、そのまま添付して遊べます。`shinen_koro_scenario.md`（深淵航路）は v2 形式の配布版で、豪華客船ホラー・難易度高・グロ強め |
 | `LICENSE` | MIT |
 
 ## インストール
